@@ -13,7 +13,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.24.0",
     "@hapi/boom": "^10.0.1",
-    "@mrnima/facebook-downloader": "1.0.0",
+    "@xaviabot/fb-downloader": "^1.0.14",
     "@sl-code-lords/esana-news": "1.1.0",
     "adm-zip": "0.5.16",
     "anju-xpro-baileys": "8.5.12",
