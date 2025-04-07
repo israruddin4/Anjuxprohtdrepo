@@ -14,14 +14,14 @@
         "required": true
                 
       },
-      "FOOTER": {
-        "description": "You can change the bot FOOTER As you're like (eg:- QUEEN-ANJU-XPRO)",
+      "GITHUB_AUTH_TOKEN": {
+        "description": "Put Your Github Auth Token, (Go to github settings;;;devoloper options and generate token classic))",
         "value":"",
         "required": true
         
       },
-      "SUDO": {
-        "description": "Put the SUDO Number (eg:- 9230723xxxxx)",
+      "GITHUB_NAME": {
+        "description": "Put Your Github Account Name",
         "value":"",
         "required": true
 
