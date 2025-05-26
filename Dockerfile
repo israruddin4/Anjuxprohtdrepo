@@ -16,6 +16,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["node", "main.js"]
-
-
+CMD ["node", "queen.js"]
