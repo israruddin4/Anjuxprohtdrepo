@@ -4,7 +4,7 @@
     "description": "𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗫ᴾᴿᴼ is a powerful and feature-rich WhatsApp bot created by Gaming Rash (Janith Rashmika).With seamless functionality and a user-friendly interface, it’s the ultimate bot for enhancing WhatsApp experiences. © Queen Anju WhatsApp Bot - MD.",
     "logo": "https://i.ibb.co/5WyPqpwB/2logojpg.jpg",
     "keywords": ["bot", "whatsapp", "automation", "anjuxpro", "byimaxz"],
-    "documentation-link": "https://anju-pair.onrender.com/",
+    "documentation-link": "https://xpro-botz-ofc.vercel.app/#",
     "owner-verification":"janith20062006@gmail.com",
   
     "env": {
@@ -14,14 +14,14 @@
         "required": true
                 
       },
-      "GITHUB_AUTH_TOKEN": {
-        "description": "Put Your Github Auth Token, (Go to github settings;;;devoloper options and generate token classic))",
+      "BOT_NUMBER": {
+        "description": "Put Your Bot Number",
         "value":"",
         "required": true
         
       },
-      "GITHUB_NAME": {
-        "description": "Put Your Github Account Name",
+      "PASSWORD": {
+        "description": "Put your ANJU-X-PRO Site Account Password.(Create Account From This Site = https://xpro-botz-ofc.vercel.app/#)",
         "value":"",
         "required": true
 
